@@ -1,4 +1,4 @@
-# Wolt Backend Assignment - Delivery Fee Calculator API
+#  Delivery Fee Calculator API
 
 This project is a Django-based HTTP API for calculating delivery fees based on cart value, delivery distance, number of items, and order time.
 
